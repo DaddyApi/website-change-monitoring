@@ -33,7 +33,7 @@ To run this script, you need the following:
 4. Save your changes and close the text editor.
 5. Run the script:
     ```
-    python monitor.py
+    python main.py
     ```
 
 ## How it Works

@@ -18,7 +18,7 @@ To run this script, you need the following:
     ```
 2. Navigate to the cloned directory:
     ```
-    cd webpage-monitor
+    cd website-change-monitoring
     ```
 3. Install the required Python modules:
     ```
